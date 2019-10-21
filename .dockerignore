@@ -10,3 +10,5 @@
 *.gem
 Gemfile.lock
 lib/silicium/silicium.so
+*.md
+*Dockerfile
